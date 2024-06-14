@@ -20,12 +20,12 @@
   justify-content: space-between;
   align-items: center;
 }
-.hero nav .logo {
+.hero nav #logo {
   color: #fff;
   font-size: 35px;
   font-weight: 700;
 }
-.hero nav .logo span {
+.hero nav #logo span {
   color: #4bffa5;
 }
 .hero nav .nav-links a {
